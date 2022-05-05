@@ -18,3 +18,4 @@ for pos in range(0, len(listagem)):
         print(f'R${listagem[pos]:>7.2f}')
 print('=' * 40)
 
+
