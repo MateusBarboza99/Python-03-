@@ -20,3 +20,6 @@ print(f'A terceira lista de números ímpares é {ímpares}')
 
 
 
+
+
+
