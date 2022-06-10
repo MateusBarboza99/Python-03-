@@ -17,10 +17,11 @@ def somaPar(lista):
     for valor in lista:
         if valor % 2 == 0:
             soma += valor
-    print(f'Sorteando os valores pares de {lista}, temos {soma} ')
+    print(f'Sorteando os valores pares de {lista}, soma deles é :  {soma} ')
 
 
 números = list()
 sorteia(números)
 somaPar(números)
+
 
